@@ -29,7 +29,7 @@ void interface()
 	cout << "Labwork4-polinom:\n";
 	cout << "To enter monom, first write the coefficient in front of it,\n";
 	cout << "Then write a three-digit number in parentheses (it is possible without leading zeros) \ndenoting the degree of a monom\n";
-	cout << "To enter polinom write sequence of monon and press enter when you are done\n";
+	cout << "To enter polinom write sequence of different monon and press enter when you are done\n";
 	cout << "Enter polinom:\n";
 
 	polinom first, second, result;
